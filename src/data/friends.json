@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.chen@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["college", "close friend"],
+    "bio": "Childhood friend turned startup founder — always full of ideas and infectious energy.",
+    "goal": 14,
+    "next_due_date": "Apr 19, 2026"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "marcus.j@outlook.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["work", "mentor"],
+    "bio": "My first manager who taught me how to give hard feedback with kindness and precision.",
+    "goal": 21,
+    "next_due_date": "Apr 21, 2026"
+  },
+  {
+    "id": 3,
+    "name": "Aisha Patel",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "aisha.patel@protonmail.com",
+    "days_since_contact": 35,
+    "status": "overdue",
+    "tags": ["college", "travel"],
+    "bio": "We met studying abroad in Tokyo and have promised each other a reunion trip every year.",
+    "goal": 30,
+    "next_due_date": "Mar 14, 2026"
+  },
+  {
+    "id": 4,
+    "name": "Ryan O'Brien",
+    "picture": "https://randomuser.me/api/portraits/men/55.jpg",
+    "email": "ryano@hey.com",
+    "days_since_contact": 42,
+    "status": "overdue",
+    "tags": ["family", "work"],
+    "bio": "Cousin who moved to Vancouver — we share a love of bad horror movies and good whiskey.",
+    "goal": 30,
+    "next_due_date": "Mar 5, 2026"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/29.jpg",
+    "email": "olivia.m@icloud.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["close friend", "neighborhood"],
+    "bio": "My downstairs neighbor who became one of my dearest friends over rooftop dinners.",
+    "goal": 21,
+    "next_due_date": "May 1, 2026"
+  },
+  {
+    "id": 6,
+    "name": "Tom Baker",
+    "picture": "https://randomuser.me/api/portraits/men/12.jpg",
+    "email": "tombaker@fastmail.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": ["hobby", "sports"],
+    "bio": "Weekend hiking buddy who always picks trails that are slightly too ambitious — and always worth it.",
+    "goal": 30,
+    "next_due_date": "Apr 18, 2026"
+  },
+  {
+    "id": 7,
+    "name": "Priya Sharma",
+    "picture": "https://randomuser.me/api/portraits/women/82.jpg",
+    "email": "priya.sharma@gmail.com",
+    "days_since_contact": 55,
+    "status": "overdue",
+    "tags": ["work", "close friend"],
+    "bio": "Former coworker and brilliant designer — we spent too many late nights debugging together.",
+    "goal": 21,
+    "next_due_date": "Feb 18, 2026"
+  },
+  {
+    "id": 8,
+    "name": "Daniel Lee",
+    "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+    "email": "dlee@tutanota.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["college", "music"],
+    "bio": "Band-mate from our terrible college garage band who somehow became a proper musician.",
+    "goal": 30,
+    "next_due_date": "May 4, 2026"
+  }
+]
