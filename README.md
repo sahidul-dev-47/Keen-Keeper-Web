@@ -7,10 +7,10 @@
 
 <br />
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-4f46e5?style=for-the-badge)](https://stunning-cocada-4a17ad.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-4f46e5?style=for-the-badge)](https://keen-keeper-web.netlify.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/sahidul-dev-47/Keen-Keeper-Web?style=for-the-badge&color=f59e0b)](https://github.com/sahidul-dev-47/Keen-Keeper-Web/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sahidul-dev-47/Keen-Keeper-Web?style=for-the-badge&color=10b981)](https://github.com/sahidul-dev-47/Keen-Keeper-Web/network)
-[![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify)](https://stunning-cocada-4a17ad.netlify.app/)
+[![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify)](https://keen-keeper-web.netlify.app/)
 
 </div>
 
@@ -97,7 +97,7 @@ Keen-Keeper-Web/
 
 ## 🌐 Live Demo
 
-Check out the live app here 👉 **[https://stunning-cocada-4a17ad.netlify.app/](https://stunning-cocada-4a17ad.netlify.app/)**
+Check out the live app here 👉 *[(https://keen-keeper-web.netlify.app/)]**
 
 ---
 
