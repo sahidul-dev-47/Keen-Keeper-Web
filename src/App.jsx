@@ -14,6 +14,18 @@ export default function App() {
       <Toaster position="top-right" />
       <Navbar />
 
+      <main className="flex-1 max-w-6xl w-full mx-auto px-4 py-8">
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/friends/:id" element={<FriendDetailPage />} />
+          <Route path="/timeline" element={<TimelinePage />} />
+          <Route path="/stats" element={<StatsPage />} />
+          <Route path="*" element={<NotFoundPage />} />
+        </Routes>
+      </main>
+
+      <Footer />
+
      
     </div>
   );
